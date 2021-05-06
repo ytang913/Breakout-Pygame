@@ -19,3 +19,11 @@ Pygame is used to create the screen, starting up the game, ending the game, and 
 Python Classes are used to create the ball and paddle and within the Classes are functions that are used for the ball and paddle collisions and reset.
 
 A while loop is used for running the game and within it are for loops and if/else statements 
+
+# Result when the user opens up the application
+![](images/breakoutPygameThumbnail.jpg)
+# Result when the user is playing the game
+![](images/playingBreakout.jpg)
+# Result when the user loses the game
+![](images/loseBreakout.jpg)                       
+
