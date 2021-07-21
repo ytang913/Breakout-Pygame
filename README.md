@@ -4,7 +4,7 @@
 
 This project is a Breakout game 
 
-The user can strat up the game and then the ball will bounce from the paddle and hits the block
+The user can start up the game and then the ball will bounce from the paddle and hits the block
                       
 The user can move the paddle left or right using the left or right keys on the computer
                         
